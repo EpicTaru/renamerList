@@ -792,7 +792,7 @@ ObjectList =
         { 17527789, "Auspicious Restore" },
         { 17527790, "Auspicious Restore" },
         { 17527791, "Auspicious Extension" },
-        { 17527794, "Auspicious Extension" },
+        { 17527792, "Auspicious Extension" },
         { 17527793, "Auspicious Restore" },
         { 17527794, "Auspicious Reset" },
         { 17527795, "Exit" },
